@@ -1,0 +1,1 @@
+print(list(map(int, input('Enter a sequence of comma separated numbers: ').rstrip().split(','))))
